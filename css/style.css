@@ -13,6 +13,10 @@ font-weight : normal;
 font-style : italic;
 }
 
+.completed {
+  font-size: 12px;
+}
+
 #tasks .completed {
 text-decoration : underline;
 }
